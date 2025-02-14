@@ -124,7 +124,7 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
-      <version>7.2.0</version>
+      <version>7.4.2</version>
     </dependency>
   </dependencies>
 </project>
